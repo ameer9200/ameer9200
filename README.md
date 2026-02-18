@@ -9,7 +9,8 @@
 - 🧠 Focused on Clean Architecture & State Management
 - 📱 Building cross-platform mobile apps
 - 🐍 Also experienced with Python
-- 📫 How to reach me: (ameerali19992@gmail.com)
+- 📫 How to reach me: (ameerali19992@gmail.com),
+- call me : 07727414166
 
 ---
 
