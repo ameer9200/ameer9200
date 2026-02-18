@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ameer</h1>
+<h3 align="center">Flutter Developer | Dart | Python</h3>
 
-<!--
-**ameer9200/ameer9200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 I am a passionate Flutter developer focused on building scalable and clean mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on Flutter projects
+- 🧠 Focused on Clean Architecture & State Management
+- 📱 Building cross-platform mobile apps
+- 🐍 Also experienced with Python
+- 📫 How to reach me: (ameerali19992@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+- Flutter & Dart
+- Clean Architecture
+- State Management (Provider / BLoC)
+- REST APIs
+- Python
+- Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameer9200&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Top Projects
+
+- 📱 Flutter Todo App
+- 🌐 API Integration App
+- 🎨 UI Clone Projects
+
+---
+
+⭐ From [ameer9200](https://github.com/ameer9200)
